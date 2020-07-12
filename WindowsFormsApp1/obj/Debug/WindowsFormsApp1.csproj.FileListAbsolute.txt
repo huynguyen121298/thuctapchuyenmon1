@@ -1,0 +1,659 @@
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Huy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\UTC2\Kỳ 6\Lập trình API\csharpui.comFastFoodDemo\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongKeDoanhThu.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chonThang.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chonThang.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongKeDoanhThu.resources
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Utc2\Kỳ 6\Lập Trình API\13.2\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chonThang.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongKeDoanhThu.resources
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Huy\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v19.1.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chonThang.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongKeDoanhThu.resources
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\youtuber\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3 (1).dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v19.1.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chonThang.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DanhSachBanAn.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcc.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMHang.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMKhachhang.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmbookFood.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTimHDBan.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.UserControls.khonggianquan.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongKeDoanhThu.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loadAcc.resources
+D:\New folder (2)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.webfb.resources
