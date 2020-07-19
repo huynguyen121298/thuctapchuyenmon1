@@ -8,6 +8,7 @@ Giang viên :Nguyen Lê Minh
 
 # Ðe tài: QUAN LÍ QUÁN CAFE – Window Form C#
 *CAC CHUC NANG DA LAM DUOC
+
 1.Quan ly danh muc san pham, phan chia theo nhom voi cac thong tin co ban(hoàn thành) 
 
 2.Import du lieu tu co so du lieu(SQL),(hoàn thành)
