@@ -9,7 +9,7 @@ Giang viên Nguyễn Lê Minh
 
 Công nghệ sử dụng: Windows Form
 
-# Ðe tài: QUẢN LÍ QUÁN CƠM – Window Form C#
+# Ðề tài: QUẢN LÍ QUÁN CƠM – Window Form C#
 
 *CÁC CHỨC NĂNG ĐÃ LÀM ĐƯỢC
 
