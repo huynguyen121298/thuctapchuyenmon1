@@ -6,7 +6,7 @@ Thành viên:
 
 Giang viên :Nguyen Lê Minh
 
-# Ðe tài: QUAN LÍ QUÁN CAFE – Window Form C#
+# Ðe tài: QUAN LÍ QUÁN CƠM – Window Form C#
 *CAC CHUC NANG DA LAM DUOC
 
 1.Quan ly danh muc san pham, phan chia theo nhom voi cac thong tin co ban(hoàn thành) 
