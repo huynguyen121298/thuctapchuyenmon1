@@ -19,11 +19,11 @@ Công nghệ sử dụng: Windows Form
 
 3.Su dung hoan toan bằng bàn phim va chuột(hoàn thành)
 
-4.Quan ly doanh thu theo ngày, tin báo cáo doanh thu(hoàn thành)
+4.Quan lý doanh thu theo ngày, tin báo cáo doanh thu(hoàn thành)
 
-5.Quan ly kho hàng, nhập hàng,thanh toán hoá đơn và sản phẩm(hoàn thành)
+5.Quan lý kho hàng, nhập hàng,thanh toán hoá đơn và sản phẩm(hoàn thành)
 
-6.Quan ly danh sách nhân viên, khach hàng, thêm, sửa, xóa bổ sung danh sach nhân viên, khách hàng....(hoàn thành)
+6.Quan lý danh sách nhân viên, khach hàng, thêm, sửa, xóa bổ sung danh sach nhân viên, khách hàng....(hoàn thành)
 
 7.lưu kết quả hoạt động bán hàng(hoàn thành)
 
