@@ -1,10 +1,12 @@
 
-Thuctap
+BÁO CÁO THỰC TẬP CHUYÊN MÔN 2019-2020
 Thành viên:
 
 •	Nguyen Tuan Huy	MSV:5851071029
+LỚP: Công nghệ thông tin 
 
 Giang viên :Nguyen Lê Minh
+Công nghệ sử dụng: Windows Form
 
 # Ðe tài: QUAN LÍ QUÁN CƠM – Window Form C#
 *CAC CHUC NANG DA LAM DUOC
@@ -30,7 +32,7 @@ Giang viên :Nguyen Lê Minh
 9.Liên ket cua hàng vs web ( Facebook)(Hoàn thành)
 
 10.Ðóng gói san pham(hoàn thành)
-
+*CÁC CHỨC NĂNG CHƯA HOÀN THÀNH
 11.Cho phép doi giá bán truc tiep trên hóa don(chua hoàn thành)
 
 12.Thêm sua, xóa san pham(chua hoàn thành)
