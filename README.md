@@ -21,18 +21,20 @@ Công nghệ sử dụng: Windows Form
 
 5.Quan ly kho hàng, nhập hàng,thanh toán hoá đơn và sản phẩm(hoàn thành)
 
-6.Quan ly danh sach nhân viên, khach hang, them sua xoa bo sung danh sach nhan vien, khach hang....(hoàn thành)
+6.Quan ly danh sách nhân viên, khach hang, them sua xoa bổ sung danh sach nhân viên, khách hàng....(hoàn thành)
 
 7.lưu kết quả hoạt động bán hàng(hoàn thành)
 
-.Nhieu bao cao moi phuc vu tot cho hoat dong quan ly: bao cao kho hang, thong ke doanh thu(Hoàn thành)
+.Nhiều báo cáo mới phục vụ tốt cho hoạt động quản ls: báo cáo kho hàng, thống kê doanh thu(Hoàn thành)
 
-8.phan quyen quan tri(admin, nhan vien)(hoàn thành)
+8.phân quyền quản trị(admin, nhan vien)(hoàn thành)
 
-9.Liên ket cua hàng vs web ( Facebook)(Hoàn thành)
+9.Liên kết cửa hàng vs web ( Facebook)(Hoàn thành)
 
-10.Ðóng gói san pham(hoàn thành)
+10.Ðóng gói sản phẩm(hoàn thành)
+
 *CÁC CHỨC NĂNG CHƯA HOÀN THÀNH
+
 11.Cho phép doi giá bán truc tiep trên hóa don(chua hoàn thành)
 
 12.Thêm sua, xóa san pham(chua hoàn thành)
